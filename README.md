@@ -12,7 +12,7 @@ You can see a preview of the New Tab Page below:
 
 To edit a bookmark, follow these steps:
 
-1. Open the `bookmarks` section in the code:
+1. Open the `bookmarks` section in the html file:
 
 ```html
 <div class="bookmarks">
